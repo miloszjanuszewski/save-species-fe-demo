@@ -5,3 +5,8 @@ This is a project which provides a frontend functionality for a Save Species app
 Currently it isn't communicating with the backend - it uses static mock data but in a format which matches the backend response.
 
 It was creating using React with Typescript.
+
+To run project locally run
+1. `npm install`
+2. `npm start`
+3. Go to `localhost:3000`
